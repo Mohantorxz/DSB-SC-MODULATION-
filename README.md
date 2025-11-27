@@ -68,12 +68,14 @@ plot(t,s);
 
 
 Output Graph
-![Uploading WhatsApp Image 2025-11-27 at 19.22.05_fb16510e.jpg…]()
+![2](https://github.com/user-attachments/assets/964e874b-7102-441c-96bb-946094d38f3a)
+
 
 
 Tablular Column
 
-![Uploading WhatsApp Image 2025-11-27 at 19.22.06_1e565f60.jpg…]()
+
+![22](https://github.com/user-attachments/assets/32f430f9-a05f-44d9-a1c9-207ce0146d66)
 
 
 Result
